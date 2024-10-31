@@ -1,0 +1,26 @@
+.ranksavant-badge{
+    color: #fff;
+    font-size: .75em;
+    padding: 3px 6px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+.ranksavant-badge-active{
+    background: #0a875a;
+}
+.ranksavant-badge-inactive{
+    background: red;
+}
+.ranksavant-select-containers{
+    width: 25em;
+}
+.ranksavant-generated-shortcode{
+    font-style: italic;
+}
+.ranksavant-notice{
+    background: #fff;
+    border: 1px solid #dba617;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 10px;
+}
